@@ -1,11 +1,11 @@
 # Twitter-sentimental-analysis
 
-_Project Overview_
+_Project Overview_ 🐦 
 
 - Analyzed Twitter data using Tweepy and NLTK libraries to determine public sentiment towards [topic/brand/event]
 - Utilized TextBlob library to classify tweets as positive, negative, or neutral
 
-_Technical Skills Used_
+_Technical Skills Used_ 👩‍💻
 
 - Programming language: Python
 - Libraries:
@@ -20,7 +20,7 @@ _Key Accomplishments_
 - Identified top influencers and trends in the Twitter conversation using NetworkX library
 - Created data visualizations to illustrate sentiment trends over time using Plotly library
 
-_Insights Gained_
+_Insights Gained_ 🚀 
 
 - Discovered [key insight] about public opinion on [topic/brand/event] using sentiment analysis
 - Identified opportunities for [company/organization] to improve their social media strategy using social network analysis
